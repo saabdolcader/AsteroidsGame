@@ -2,7 +2,7 @@ Spaceship bob = new Spaceship();
 Star[] sky = new Star[200];
 ArrayList <Asteroids> list = new ArrayList <Asteroids>(); 
 ArrayList <Bullet> shoot = new ArrayList <Bullet>();
-int ast = 20;
+int ast = 15;
 public void setup() 
 {
   size(500,500);
