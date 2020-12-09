@@ -81,7 +81,7 @@ public void keyPressed()
       shoot.get(h).turn(30);
     }
   }
-  if (key == 'e')
+  if (key == ' ')
   {
     shoot.add(new Bullet(bob));
   }
